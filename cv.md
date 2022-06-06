@@ -22,7 +22,7 @@ My primary goal is became a good front-end developer. I hope that I can achieve 
 ---
 ### _Expirience_ :
 
-I have no experience in development, but I compensate for its absence with strong motivation. I like to write code. I may not be able to write it cleanly and competently yet, but I am sure that with due diligence I will be able to achieve the necessary competencies in this.
+_I have no experience in development, but I compensate for its absence with strong motivation. I like to write code. I may not be able to write it cleanly and competently yet, but I am sure that with due diligence I will be able to achieve the necessary competencies in this._
 
 ---
 
