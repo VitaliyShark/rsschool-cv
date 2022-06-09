@@ -1,1 +1,12 @@
+@font-face {
+    font-family: Mukta;
+    src: url("assets/fonts/Mukta/Mukta-Regular.ttf");
+}
 
+body {
+    font-family: Mukta;
+}
+
+* {
+    box-sizing: border-box;
+}
