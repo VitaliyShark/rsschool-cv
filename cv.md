@@ -75,7 +75,6 @@ public class Multiply {
 
 I have a full secondary education. 
 
-
 And I also take courses on the ***GeekBrain platform***, specializing in ***Software Tester (Q&A)***.
 
 
